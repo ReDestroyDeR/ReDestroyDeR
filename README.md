@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ReDestroyDeR
 - 👀 I’m interested in Mathematics and a bit of Quantum Physics
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Java 
 - 📫 Discord red#4596
