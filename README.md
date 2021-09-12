@@ -4,10 +4,9 @@ My name is Daniil
 I mostly code Java Backends using Spring
 My current learning roadmap is: Apache Kafka, ELK 
 
-[![ReDestroyDeR's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReDestroyDeR&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![ReDestroyDeR's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReDestroyDeR&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReDestroyDeR&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 [![ReDestroyDeR's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=redofficiale&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # My stack
