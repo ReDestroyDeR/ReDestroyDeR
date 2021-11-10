@@ -21,5 +21,9 @@ My current learning roadmap is: Apache Kafka, ELK
 [![ReactiveX](https://img.shields.io/badge/reactivex-indigo?style=for-the-badge&logo=reactivex)](http://reactivex.io/)
 [![Maven](https://img.shields.io/badge/maven-blue?style=for-the-badge&logo=apachemaven)](https://maven.apache.org/)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=mongodb&logoColor=darkgreen)](https://www.mongodb.com/)
+
+[![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-white?style=for-the-badge&logo=kubernetes)](https://kubernetes.io/)
 
 [![IntelliJ Idea](https://img.shields.io/badge/intellij_idea-purple?style=for-the-badge&logo=intellijidea)](https://www.jetbrains.com/idea/)
