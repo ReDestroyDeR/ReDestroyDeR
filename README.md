@@ -3,6 +3,7 @@
 My name is Daniil
 I mostly code Java Backends using Spring
 My current learning roadmap is: Kafka, RabbitMQ, Kafka-Streams, Hadoop, Redis
+
 Considering to learn APL or Haskell
 
 [![ReDestroyDeR's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReDestroyDeR&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
