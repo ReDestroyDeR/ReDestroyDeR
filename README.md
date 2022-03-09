@@ -2,7 +2,7 @@
 
 My name is Daniil
 I mostly code Java Backends using Spring
-My current learning roadmap is: Kafka, RabbitMQ, Kafka-Streams, Hadoop, Redis
+My current learning roadmap is: Kafka, RabbitMQ, Kafka-Streams, Groovy, Gradle, HTTP/2, HTTP/3, Hadoop, Redis
 
 Considering to learn APL or Haskell
 
