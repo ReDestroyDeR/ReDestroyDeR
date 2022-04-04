@@ -1,7 +1,8 @@
 # Welcome to my GitHub
 
 My name is Daniil
-I mostly code Java Backends using Spring
+I primarly code Java Backends
+
 Currently interested in: Kafka, Kotlin, Gradle
 
 Considering to learn APL or Haskell
